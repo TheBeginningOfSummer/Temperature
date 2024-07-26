@@ -407,7 +407,6 @@
             Controls.Add(GB设备状态);
             Controls.Add(BTN开始);
             Controls.Add(TS菜单);
-            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "温度自动控制";
